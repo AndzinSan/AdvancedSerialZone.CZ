@@ -13,11 +13,11 @@
              library="advanced.serialzone.cz.xml"/>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Advanced SerialZone.CZ Scraper based on serialzone.cz scraper by ld (http://ldevel.blogspot.com)</summary>
-    <summary lang="cs">Pokroèilí stahovaè informací ze SerialZone.CZ zaloen na pùvodním stahovaèi od ld (http://ldevel.blogspot.com)</summary>
-    <summary lang="sk">Pokroèilí sahovaè informácií zo SerialZone.CZ zaloenı na pôvodnom sahovaèi od ld (http://ldevel.blogspot.com)</summary>
+    <summary lang="cs">PokroÄilÃ­ stahovaÄ informacÃ­ ze SerialZone.CZ zaloÅ¾en na pÅ¯vodnÃ­m stahovaÄi od ld (http://ldevel.blogspot.com)</summary>
+    <summary lang="sk">PokroÄilÃ­ sÅ¥ahovaÄ informÃ¡ciÃ­ zo SerialZone.CZ zaloÅ¾enÃ½ na pÃ´vodnom sÅ¥ahovaÄi od ld (http://ldevel.blogspot.com)</summary>
     <description lang="en">Download series information from www.serialzone.cz with TVDB support</description>
-    <description lang="cs">Stahuje informace o seriálech z serialzone.cz s podporou TVDB.</description>
-    <description lang="sk">Sahuje informácie o seriáloch zo serialzone.cz s podporou TVDB.</description>
+    <description lang="cs">Stahuje informace o seriÃ¡lech z serialzone.cz s podporou TVDB.</description>
+    <description lang="sk">SÅ¥ahuje informÃ¡cie o seriÃ¡loch zo serialzone.cz s podporou TVDB.</description>
     <platform>all</platform>
   </extension>
 </addon>

@@ -1,5 +1,5 @@
 [B]0.1[/B]
 - Prvotina
-- Pridan· podpora nahr·vania fanart, poster a thumb obr·zkov z TVDB miesto serialzone.cz
-- UloûenÈ n·zvy seri·lov v DB s˙ len v CZ alebo EN n·zve (podæa dostupnosti)
-  namiesto form·tu "cz.n·zov (en.n·zov)"
+- Pridan√° podpora nahr√°vania fanart, poster a thumb obr√°zkov z TVDB miesto serialzone.cz
+- Ulo≈æen√© n√°zvy seri√°lov v DB s√∫ len v CZ alebo EN n√°zve (podƒæa dostupnosti)
+  namiesto form√°tu "cz.n√°zov (en.n√°zov)"
