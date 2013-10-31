@@ -1,0 +1,5 @@
+[B]0.1[/B]
+- Prvotina
+- Pridaná podpora nahrávania fanart, poster a thumb obrázkov z TVDB miesto serialzone.cz
+- Uložené názvy seriálov v DB sú len v CZ alebo EN názve (pod¾a dostupnosti)
+  namiesto formátu "cz.názov (en.názov)"
